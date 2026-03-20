@@ -10,7 +10,6 @@ scripts/.env
 
 # Build artifacts
 onchain/build/
-onchain/plutus.json
 frontend/dist/
 
 # IDE
